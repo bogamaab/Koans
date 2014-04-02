@@ -9,3 +9,4 @@ public/uploads
 .DS_Store
 public/upload
 db/*.sqlite3
+.swp
